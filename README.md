@@ -1,12 +1,12 @@
-# sample
-sample project
+<html>
 
+<head>
+<title>Git Intro</title>
+</head>
+<body>
 
-
-PRANEETH reddy
-
-
-hiii 
-
-
-bcdhjfwbc 
+<h3>Digvijay is good</h3>
+  
+</body>
+  
+</html>
